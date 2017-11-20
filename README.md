@@ -1,4 +1,4 @@
 # nk
 All Project
 
-ini merupakan project sederhana sata
+ini merupakan project sederhana saya
